@@ -17,6 +17,7 @@ public class Ball
     private int yPosition;
     private String color;
     private boolean isVisible;
+    private int notUsed;
 
     /**
      * Create a new ball at default position with default color.
